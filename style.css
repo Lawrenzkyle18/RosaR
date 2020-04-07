@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: green;
+}
+
+.hero-section {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 60px;
+  align-items: center;
+}
+
+.hero1 {
+  width: 50%;
+  flex: 1;
+}
+
+.hero2 {
+  width: 50%;
+  flex: 1;
+  margin-left: 20px;
+}
